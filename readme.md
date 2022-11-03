@@ -7,7 +7,7 @@
 - :office: &nbsp;I'm currently working at **[btg]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **everything**
-- :mailbox: &nbsp;Ask me anything on my **[contact]**
+- :mailbox: &nbsp;Ask me anything on my email: marco.bagdal07@gmail.com
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <h2 align="left">Techs</h2>
@@ -50,5 +50,4 @@
 </table>
 
 [btg]: https://www.btgpactual.com
-[contact]: marco.bagdal07@gmail.com "personal contact"
 [linkedin]: https://www.linkedin.com/in/marcobagdal "Marco Bagdal LinkedIn"
